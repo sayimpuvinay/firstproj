@@ -1,7 +1,7 @@
-function profileCard() {
+function ProfileCard() {
     return (
         <h1>This is profile card</h1>
-)
-    }
+    )
+}
 
-export default profileCard;
+export default ProfileCard;
