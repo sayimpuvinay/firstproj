@@ -1,6 +1,6 @@
 function ProfileCard() {
     return (
-        <h1>This is profile card</h1>
+        <h1>profileCard is working fine</h1>
     )
 }
 

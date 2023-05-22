@@ -4,7 +4,7 @@ import ProfileCard from './ProfileCard';
 function App() {
   return (
     <div className="App">
-     <ProfileCard />
+      <ProfileCard />
     </div>
   );
 }
